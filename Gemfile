@@ -5,7 +5,7 @@ gem 'rails', '4.0.0'
 
 
 group :production do
-	gem 'pg'
+	gem 'pg', '0.15.1'
 end
 
 # Use sqlite3 as the database for Active Record
