@@ -1,0 +1,500 @@
+   25  ssh -X iruwang@cyclades.stanford.edu
+   26  ssh -X iruwang@myth.stanford.edu
+   27  scp iruwang@corn.stanford.edu:EE282/pa1/matmul.c .
+   28  ssh -X iruwang@cyclades.stanford.edu
+   29  ssh -X iruwang@myth.stanford.edu
+   30  ssh -X iruwang@myth.stanford.edu
+   31  ssh -X iruwang@myth.stanford.edu
+   32  ssh -X iruwang@myth.stanford.edu
+   33  ssh -X iruwang@myth.stanford.edu
+   34  ssh -X iruwang@myth.stanford.edu
+   35  ssh -X iruwang@myth.stanford.edu
+   36  ssh -X iruwang@myth.stanford.edu
+   37  ssh -X iruwang@myth.stanford.edu
+   38  ssh -X iruwang@myth.stanford.edu
+   39  ssh -X iruwang@myth.stanford.edu
+   40  ssh -X iruwang@myth.stanford.edu
+   41  ssh -X iruwang@myth.stanford.edu
+   42  ssh -X iruwang@corn.stanford.edu
+   43  ssh -X iruwang@myth.stanford.edu
+   44  ssh -X iruwang@myth.stanford.edu
+   45  scp . iruwang@corn.stanford.edu:EE282/pa1/matmul.c
+   46  scp . iruwang@corn.stanford.edu:CS161/starter-cpp/Midterm.cpp
+   47  scp Midterm.cpp iruwang@corn.stanford.edu:CS161/starter-cpp/Midterm.cpp
+   48  ssh -X iruwang@myth.stanford.edu
+   49  ssh -X iruwang@myth.stanford.edu
+   50  ssh -X iruwang@myth.stanford.edu
+   51  ssh -X iruwang@myth.stanford.edu
+   52  ssh -X iruwang@myth.stanford.edu
+   53  ssh -X iruwang@myth.stanford.edu
+   54  ssh -X iruwang@myth.stanford.edu
+   55  ssh -X iruwang@myth.stanford.edu
+   56  ssh -X iruwang@myth.stanford.edu
+   57  ssh -X iruwang@myth.stanford.edu
+   58  ssh -X iruwang@myth.stanford.edu
+   59  ssh -X iruwang@myth.stanford.edu
+   60  ssh -X iruwang@myth.stanford.edu
+   61  ssh -X iruwang@myth.stanford.edu
+   62  ssh -X iruwang@myth.stanford.edu
+   63  ssh -X iruwang@myth.stanford.edu
+   64  ssh -X iruwang@myth.stanford.edu
+   65  ssh -X iruwang@myth.stanford.edu
+   66  ssh -X iruwang@myth.stanford.edu
+   67  ssh -X iruwang@myth.stanford.edu
+   68  ssh -X iruwang@myth7.stanford.edu
+   69  ssh -X iruwang@myth7.stanford.edu
+   70  ssh -X iruwang@myth.stanford.edu
+   71  ssh -X iruwang@myth7.stanford.edu
+   72  ssh -X iruwang@myth.stanford.edu
+   73  ssh yfyu@myth
+   74  exit
+   75  ssh -X iruwang@corn.stanford.edu
+   76  ssh -X iruwang@myth.stanford.edu
+   77  ssh -X iruwang@myth.stanford.edu
+   78  ssh -X iruwang@myth.stanford.edu
+   79  ssh -X iruwang@myth.stanford.edu
+   80  ssh -X iruwang@myth.stanford.edu
+   81  ssh -X iruwang@myth12.stanford.edu
+   82  ssh -X iruwang@corn.stanford.edu
+   83  ssh -X iruwang@myth.stanford.edu
+   84  ssh -X iruwang@corn.stanford.edu
+   85  scp tkxue.cpp iruwang@corn.stanford.edu:CS161/starter-cpp/Midterm2.cpp
+   86  ssh -X iruwang@myth.stanford.edu
+   87  ssh -X iruwang@myth.stanford.edu
+   88  ssh -X iruwang@myth.stanford.edu
+   89  ssh -X iruwang@myth20.stanford.edu
+   90  ssh -X iruwang@cyclades.stanford.edu
+   91  ssh -X iruwang@cyclades.stanford.edu
+   92  ssh -X iruwang@cyclades.stanford.edu
+   93  ssh -X iruwang@cyclades.stanford.edu
+   94  ssh -X iruwang@cyclades.stanford.edu
+   95  ssh -X iruwang@myth.stanford.edu
+   96  ssh -X iruwang@cyclades.stanford.edu
+   97  ssh -X iruwang@cyclades.stanford.edu
+   98  ssh -X iruwang@myth.stanford.edu
+   99  ssh -X iruwang@myth.stanford.edu
+  100  ssh -X iruwang@myth.stanford.edu
+  101  ssh -X iruwang@myth.stanford.edu
+  102  ssh -X iruwang@myth.stanford.edu
+  103  ssh -X iruwang@myth.stanford.edu
+  104  ssh -X iruwang@cyclades.stanford.edu
+  105  /Users/WYY/Downloads/cost-et\ 2/cost-et.pl; exit;
+  106  /Users/WYY/Downloads/cost-et\ 2/cost-et.pl; exit;
+  107  ssh -X iruwang@cyclades.stanford.edu
+  108  cd cost-et/
+  109  ./cost-et.pl input_example/barossoA/dc.params input_example/r.params
+  110  ./cost-et.pl input_example/barossoA/dc.params input_example/barossoA/resource.params 
+  111  ./cost-et.pl input_example/barossoA/dc.params input_example/barossoA/resource.params 
+  112  ./cost-et.pl input_example/barossoA/dc.params input_example/barossoA/resource.params > iru2.out
+  113  vim iru2
+  114  vim iru2.out 
+  115  ./cost-et.pl input_example/barossoA/dc.params input_example/barossoA/resource.params > iru2.out
+  116  vim iru2.out 
+  117  ./cost-et.pl input_example/barossoA/dc.params input_example/barossoA/resource.params2.txt > barosso2.out
+  118  vim barosso2.out 
+  119  vim iru.out 
+  120  vim barosso2.out 
+  121  vim barosso2.out 
+  122  vim iru.out 
+  123  vim iru.out 
+  124  vim iru.out 
+  125  ssh -X iruwang@myth.stanford.edu
+  126  ssh -X iruwang@cyclades.stanford.edu
+  127  ssh -X iruwang@cyclades.stanford.edu
+  128  cd EE282
+  129  perl
+  130  perl -v
+  131  /Users/WYY/Downloads/cost-et\ 2/cost-et.pl 
+  132  /Users/WYY/Downloads/cost-et/cost-et.pl 
+  133  perl /Users/WYY/Downloads/cost-et/cost-et.pl 
+  134  ./cost-­‐et.pl
+  135  input_example/dc.params
+  136  ls
+  137  /Users/WYY/Downloads/cost-et/cost-et.pl
+  138  ls
+  139  cd cost-et/
+  140  ls
+  141  ./cost-et.pl input_example/dc.params input_example/r.params 
+  142  ./cost-et.pl input_example/hamilton/dc.params input_example/hamilton/resource.params 
+  143  ./cost-et.pl input_example/hamilton/dc.params input_example/r.params 
+  144  ./cost-et.pl input_example/hamilton/dc.params input_example/hamilton/resource.params 
+  145  ./cost-et.pl input_example/hamilton/dc.params input_example/hamilton/r
+  146  ./cost-et.pl input_example/hamilton/dc.params input_example/r.params 
+  147  ./cost-et.pl input_example/hamilton/dc.params input_example/r.params 
+  148  ./cost-et.pl input_example/hamilton/dc.params input_example/r.params 
+  149  ./cost-et.pl input_example/barossoA/dc.params input_example/r.params 
+  150  ./cost-et.pl input_example/hamilton/dc.params input_example/r.params 
+  151  ./cost-et.pl input_example/dc.params input_example/r.params 
+  152  ./cost-et.pl input_example/hamilton/dc.params input_example/hamilton/resource.params 
+  153  ./cost-et.pl input_example/hamilton/dc.params input_example/hamilton/resource.params 
+  154  ./cost-et.pl input_example/hamilton/dc.params input_example/hamilton/resource.params > iru.out
+  155  l
+  156  ls
+  157  vim iru.out 
+  158  ./cost-et.pl input_example/hamilton/dc.params input_example/hamilton/resource.params2 > hamiltonnew.out
+  159  ./cost-et.pl input_example/hamilton/dc.params input_example/hamilton/resource.params2.txt > hamilton2.out
+  160  vim hamilton2.out 
+  161  vim iru2.out 
+  162  vim hamilton2.out 
+  163  vim hamilton2.out 
+  164  vim iru2.out 
+  165  vim hamilton2.out 
+  166  ./cost-et.pl input_example/hamilton/dc.params input_example/hamilton/resource.params2.txt > hamilton3.out
+  167  vim hamilton3.out 
+  168  ./cost-et.pl input_example/hamilton/dc.params input_example/hamilton/resource.params2.txt > hamilton3.out
+  169  vim hamilton3
+  170  vim hamilton3.out 
+  171  ssh -X iruwang@cyclades.stanford.edu
+  172  vim iru.o
+  173  cd cost-et/iru.out 
+  174  cd cost-et/
+  175  vim iru.out 
+  176  vim hamilton2.out 
+  177  ls
+  178  vim hamilton3.out 
+  179  vim iru.out 
+  180  vim hamiltontune.out 
+  181  vim hamiltontune.out 
+  182  ssh -X iruwang@cyclades.stanford.edu
+  183  cd cost-et/iru2.out 
+  184  cd cost-et/
+  185  vim iru2.out 
+  186  ./cost-et.pl input_example/hamilton/dc.params input_example/hamilton/resource.params2ori.txt 
+  187  ./cost-et.pl input_example/hamilton/dc.params input_example/hamilton/resource.params2ori.txt > hamiltonori2.out
+  188  vim hamiltonori2.out 
+  189  ./cost-et.pl input_example/hamilton/dc.params input_example/hamilton/resource.params2dram.txt > hamiltonoridram.out
+  190  vim hamiltonoridram.out 
+  191  ./cost-et.pl input_example/hamilton/dc.params input_example/hamilton/resource.paramstune.txt > hamiltontune.out
+  192  ./cost-et.pl input_example/hamilton/dc.params input_example/hamilton/resourcetune.txt > hamiltontune.out
+  193  vim hamiltontune.out 
+  194  ./cost-et.pl input_example/hamilton/dc.params input_example/hamilton/resourcetune2.txt > hamiltontune2.out
+  195  vim hamiltontune2.out 
+  196  ./cost-et.pl input_example/hamilton/dc2.text input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  197  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  198  vim hamiltonpue.out 
+  199  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  200  vim hamiltonpue.out 
+  201  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  202  vim hamiltonpue.out 
+  203  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  204  vim hamiltonpue.out 
+  205  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  206  vim hamiltontune
+  207  vim hamiltontune.out 
+  208  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  209  vim hamiltonpue.out 
+  210  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  211  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  212  vim hamiltonpue.out 
+  213  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  214  vim hamiltonpue.out 
+  215  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  216  vim hamiltonpue.out 
+  217  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  218  vim hamiltonpue.out 
+  219  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  220  vim hamiltonpue.out 
+  221  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  222  vim hamiltonpue.out 
+  223  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  224  vim hamiltonpue.out 
+  225  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  226  vim hamiltonpue.out 
+  227  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  228  vim hamiltonpue.out 
+  229  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  230  vim hamiltonpue.out 
+  231  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  232  vim hamiltonpue.out 
+  233  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  234  vim hamiltonpue.out 
+  235  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  236  vim hamiltonpue.out 
+  237  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  238  vim hamiltonpue.out 
+  239  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  240  vim hamiltonpue.out 
+  241  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  242  vim hamiltonpue.out 
+  243  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue2.
+  244  vim hamiltonpue2
+  245  vim hamiltonpue2. 
+  246  ssh -X iruwang@cyclades.stanford.edu
+  247  ssh -X iruwang@myth.stanford.edu
+  248  ssh -X iruwang@myth.stanford.edu
+  249  ssh -X iruwang@cyclades.stanford.edu
+  250  ssh -X iruwang@myth.stanford.edu
+  251  ssh -X iruwang@myth.stanford.edu
+  252  ssh -X iruwang@cyclades.stanford.edu
+  253  ssh -X iruwang@myth.stanford.edu
+  254  ssh -X iruwang@myth.stanford.edu
+  255  ssh -X iruwang@myth.stanford.edu
+  256  ssh -X iruwang@myth.stanford.edu
+  257  ssh -X iruwang@myth.stanford.edu
+  258  ssh -X iruwang@myth.stanford.edu
+  259  ssh -X iruwang@myth.stanford.edu
+  260  ssh -X iruwang@myth.stanford.edu
+  261  ssh -X iruwang@myth.stanford.edu
+  262  ssh -X iruwang@myth.stanford.edu
+  263  ssh -X iruwang@myth.stanford.edu
+  264  ssh -X iruwang@myth.stanford.edu
+  265  ssh -X iruwang@myth.stanford.edu
+  266  ssh -X iruwang@myth.stanford.edu
+  267  ssh -X iruwang@myth.stanford.edu
+  268  ssh -X iruwang@myth.stanford.edu
+  269  ssh -X iruwang@myth.stanford.edu
+  270  ssh -X iruwang@myth.stanford.edu
+  271  q
+  272  ssh -X iruwang@myth.stanford.edu
+  273  ping www.google.com
+  274  ipsat
+  275  netstate
+  276  netstat
+  277  ping www.google.com
+  278  ping www.google.com
+  279  ping www.google.com
+  280  ping www.google.com
+  281  ping www.google.com
+  282  ls
+  283  ls
+  284  cd ~/rails_projects
+  285  mkdir rails_projects
+  286  ls
+  287  cd ~/rails_projects/
+  288  rails new demp_app
+  289  ruby -v
+  290  brew
+  291  ruby --help
+  292  rvm
+  293  apt install
+  294  apt install rail
+  295  \curl -L https://get.rvm.io | bash -s stable --ruby
+  296  source /Users/WYY/.rvm/scripts/rvm
+  297  rvm install ruby-1.9.3-p362
+  298  ruby -v
+  299  ruby -v
+  300  rvm get head && rvm reload
+  301  rvm install 1.9.3
+  302  ls
+  303  ls
+  304  cd ~/rails_projects
+  305  mkdir rails_projects
+  306  ls
+  307  cd ~/rails_projects/
+  308  rails new demp_app
+  309  ruby -v
+  310  brew
+  311  ruby --help
+  312  rvm
+  313  apt install
+  314  apt install rail
+  315  \curl -L https://get.rvm.io | bash -s stable --ruby
+  316  source /Users/WYY/.rvm/scripts/rvm
+  317  rvm install ruby-1.9.3-p362
+  318  ruby -v
+  319  ruby -v
+  320  rvm get head && rvm reload
+  321  rvm install 1.9.3
+  322  ls
+  323  ls
+  324  cd ~/rails_projects
+  325  mkdir rails_projects
+  326  ls
+  327  cd ~/rails_projects/
+  328  rails new demp_app
+  329  ruby -v
+  330  brew
+  331  ruby --help
+  332  rvm
+  333  apt install
+  334  apt install rail
+  335  \curl -L https://get.rvm.io | bash -s stable --ruby
+  336  source /Users/WYY/.rvm/scripts/rvm
+  337  rvm install ruby-1.9.3-p362
+  338  ruby -v
+  339  ruby -v
+  340  rvm get head && rvm reload
+  341  rvm install 1.9.3
+  342  ls
+  343  ls
+  344  cd ~/rails_projects
+  345  mkdir rails_projects
+  346  ls
+  347  cd ~/rails_projects/
+  348  rails new demp_app
+  349  ruby -v
+  350  brew
+  351  ruby --help
+  352  rvm
+  353  apt install
+  354  apt install rail
+  355  \curl -L https://get.rvm.io | bash -s stable --ruby
+  356  source /Users/WYY/.rvm/scripts/rvm
+  357  rvm install ruby-1.9.3-p362
+  358  ruby -v
+  359  ruby -v
+  360  rvm get head && rvm reload
+  361  rvm install 1.9.3
+  362  ruby -v
+  363  rvm use 1.9.3@rails3tutorial2ndEd --create --default
+  364  rvm install 1.9.3
+  365  rvm use 1.9.3@rails3tutorial2ndEd --create --default
+  366  ruby -v
+  367  ssh -X iruwang@myth.stanford.edu
+  368  vim ~/.bash_profile 
+  369  rvm
+  370  vim ~/.bash_profile 
+  371  exit
+  372  sts
+  373  vim ~/.bash_profile 
+  374  exit
+  375  stssh
+  376  vim ~/.bash_profile 
+  377  stssh
+  378  vim ~/.bash_profile 
+  379  ls
+  380  cd /local/
+  381  pwd
+  382  cd ls
+  383  ls
+  384  cd rails_projects/
+  385  ls
+  386  cd Orrzs/
+  387  ls
+  388  cd /Users/WYY/.rvm/rubies/ruby-1.9.3-p448/bin/ruby
+  389  ls
+  390  cd .rvm/
+  391  ls
+  392  cd rubies/
+  393  ls
+  394  cd ruby-1.9.3-p448/
+  395  ls
+  396  cd bin 
+  397  ls
+  398  ruby
+  399  cd ..
+  400  ls
+  401  cd config
+  402  ls
+  403  cd oncfig
+  404  ls
+  405  cd config
+  406  less config 
+  407  cd /usr/local/etc/ImageMagick/
+  408  ls
+  409  sudo rm type.xml 
+  410  stssh 
+  411  stssh 
+  412  pwd
+  413  cd newapp
+  414  ls
+  415  cd rails_projects/
+  416  ls
+  417  cd Orrzs/
+  418  ls
+  419  cd ..
+  420  rails -v
+  421  ls
+  422  cd Orrzs/
+  423  rails server
+  424  rails server
+  425  ls
+  426  rails server
+  427  cd ..
+  428  ls
+  429  cd ..
+  430  cd myapp/
+  431  ls
+  432  rails server
+  433  git config --global user.name
+  434  git config --global email
+  435  git config --global user.email
+  436  git config --global user.name "irukimo"
+  437  git config --global user.name
+  438  git config --global user.email wangirukimo@gmail.com
+  439  git config --global user.email
+  440  ls -a
+  441  cd .git
+  442  git log
+  443  git init
+  444  vim .gitignore 
+  445  ls -a
+  446  ls
+  447  ls -a
+  448  vim .gitignore 
+  449  git .
+  450  git add .
+  451  git status
+  452  git commit -am "Initial Commit"
+  453  git status
+  454   git remote add origin git@github.com:irukimo/pinterest.git
+  455  git push -u origin master
+  456  git remote add origin git@github.com:irukimo/pinterest.git
+  457  git remote add origin git@github.com:irukimo/pinterest.git
+  458  git push -u origin master
+  459  git push -u origin master
+  460  git remote add origin git@github.com:irukimo/pinterest.git
+  461  git push -u origin master
+  462  git log
+  463  git push
+  464  git remote add origin git@github.com:irukimo/pinterest.git
+  465  git push -u origin master
+  466  ssh -vT git@github.com
+  467  ssh-add -l
+  468  exit
+  469  brew imagemagick
+  470  brew install imagemagick
+  471  sudo install imagemagick
+  472  sudo brew install imagemagick
+  473  brew install imagemagick
+  474  brew reinstall imagemagick
+  475  brew link --overwrite imagemagick
+  476  brew link imagemagick
+  477  brew install imagemagick
+  478  brew doctor
+  479  brew reinstall imagemagick
+  480  brew install imagemagick
+  481  ls
+  482  ls
+  483  cd /usr/bin
+  484  ls
+  485  mdfind imagemagick
+  486  ls
+  487  cd ..
+  488  ls
+  489  sudo port install imagemagick
+  490  brew instal imagemagick
+  491  brew config
+  492  brew config
+  493  brew instal imagemagick
+  494  echo "Hi"
+  495  ls
+  496  pwd
+  497  cd WYY
+  498  ls
+  499  exit
+  500  exit
+  501  ssh-add -l
+  502  ls
+  503  cd myapp/
+  504  ls
+  505  git remote add origin git@github.com:irukimo/pinterest.git
+  506  git origin
+  507  git push -u origin master
+  508  git remote add origin https://github.com/irukimo/pinterest.git
+  509  git remote set-url origin https://github.com/irukimo/pinterest.git
+  510  git push -u origin master
+  511  git remote add origin https://github.com/irukimo/pinterest.git
+  512  git push -u origin master
+  513  git remote add origin git@github.com:irukimo/pinterest.git
+  514  git remote set-url origin git@github.com/irukimo/pinterest.git
+  515  git push -u origin master
+  516  git remote set-url origin git@github.com:irukimo/pinterest.git
+  517  git push -u origin master
+  518  pbcopy < ~/.ssh/id_rsa.pub
+  519  pbcopy < ~/.ssh/id_rsa.pub
+  520  git remote set-url origin git@github.com:irukimo/pinterest.git
+  521  git push -u origin master
+  522  git push -u origin master
+  523  history
+  524  history > history1.txt
