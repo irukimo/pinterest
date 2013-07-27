@@ -1,6 +1,10 @@
 Myapp::Application.routes.draw do
 
-  #root to: 'static_page#home'
+  root :to => 'pages#home'
+  get 'about' => 'pages#about'
+
+
+  #action1
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

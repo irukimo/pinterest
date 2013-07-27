@@ -1,0 +1,500 @@
+  175  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  176  vim hamiltonpue.out 
+  177  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  178  vim hamiltonpue.out 
+  179  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  180  vim hamiltonpue.out 
+  181  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  182  vim hamiltonpue.out 
+  183  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  184  vim hamiltonpue.out 
+  185  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  186  vim hamiltonpue.out 
+  187  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  188  vim hamiltonpue.out 
+  189  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  190  vim hamiltonpue.out 
+  191  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  192  vim hamiltonpue.out 
+  193  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  194  vim hamiltonpue.out 
+  195  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  196  vim hamiltonpue.out 
+  197  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  198  vim hamiltonpue.out 
+  199  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue.out
+  200  vim hamiltonpue.out 
+  201  ./cost-et.pl input_example/hamilton/dc2.txt input_example/hamilton/resourcetune2.txt > hamiltonpue2.
+  202  vim hamiltonpue2
+  203  vim hamiltonpue2. 
+  204  ssh -X iruwang@cyclades.stanford.edu
+  205  ssh -X iruwang@myth.stanford.edu
+  206  ssh -X iruwang@myth.stanford.edu
+  207  ssh -X iruwang@cyclades.stanford.edu
+  208  ssh -X iruwang@myth.stanford.edu
+  209  ssh -X iruwang@myth.stanford.edu
+  210  ssh -X iruwang@cyclades.stanford.edu
+  211  ssh -X iruwang@myth.stanford.edu
+  212  ssh -X iruwang@myth.stanford.edu
+  213  ssh -X iruwang@myth.stanford.edu
+  214  ssh -X iruwang@myth.stanford.edu
+  215  ssh -X iruwang@myth.stanford.edu
+  216  ssh -X iruwang@myth.stanford.edu
+  217  ssh -X iruwang@myth.stanford.edu
+  218  ssh -X iruwang@myth.stanford.edu
+  219  ssh -X iruwang@myth.stanford.edu
+  220  ssh -X iruwang@myth.stanford.edu
+  221  ssh -X iruwang@myth.stanford.edu
+  222  ssh -X iruwang@myth.stanford.edu
+  223  ssh -X iruwang@myth.stanford.edu
+  224  ssh -X iruwang@myth.stanford.edu
+  225  ssh -X iruwang@myth.stanford.edu
+  226  ssh -X iruwang@myth.stanford.edu
+  227  ssh -X iruwang@myth.stanford.edu
+  228  ssh -X iruwang@myth.stanford.edu
+  229  q
+  230  ssh -X iruwang@myth.stanford.edu
+  231  ping www.google.com
+  232  ipsat
+  233  netstate
+  234  netstat
+  235  ping www.google.com
+  236  ping www.google.com
+  237  ping www.google.com
+  238  ping www.google.com
+  239  ping www.google.com
+  240  ls
+  241  ls
+  242  cd ~/rails_projects
+  243  mkdir rails_projects
+  244  ls
+  245  cd ~/rails_projects/
+  246  rails new demp_app
+  247  ruby -v
+  248  brew
+  249  ruby --help
+  250  rvm
+  251  apt install
+  252  apt install rail
+  253  \curl -L https://get.rvm.io | bash -s stable --ruby
+  254  source /Users/WYY/.rvm/scripts/rvm
+  255  rvm install ruby-1.9.3-p362
+  256  ruby -v
+  257  ruby -v
+  258  rvm get head && rvm reload
+  259  rvm install 1.9.3
+  260  ls
+  261  ls
+  262  cd ~/rails_projects
+  263  mkdir rails_projects
+  264  ls
+  265  cd ~/rails_projects/
+  266  rails new demp_app
+  267  ruby -v
+  268  brew
+  269  ruby --help
+  270  rvm
+  271  apt install
+  272  apt install rail
+  273  \curl -L https://get.rvm.io | bash -s stable --ruby
+  274  source /Users/WYY/.rvm/scripts/rvm
+  275  rvm install ruby-1.9.3-p362
+  276  ruby -v
+  277  ruby -v
+  278  rvm get head && rvm reload
+  279  rvm install 1.9.3
+  280  ls
+  281  ls
+  282  cd ~/rails_projects
+  283  mkdir rails_projects
+  284  ls
+  285  cd ~/rails_projects/
+  286  rails new demp_app
+  287  ruby -v
+  288  brew
+  289  ruby --help
+  290  rvm
+  291  apt install
+  292  apt install rail
+  293  \curl -L https://get.rvm.io | bash -s stable --ruby
+  294  source /Users/WYY/.rvm/scripts/rvm
+  295  rvm install ruby-1.9.3-p362
+  296  ruby -v
+  297  ruby -v
+  298  rvm get head && rvm reload
+  299  rvm install 1.9.3
+  300  ls
+  301  ls
+  302  cd ~/rails_projects
+  303  mkdir rails_projects
+  304  ls
+  305  cd ~/rails_projects/
+  306  rails new demp_app
+  307  ruby -v
+  308  brew
+  309  ruby --help
+  310  rvm
+  311  apt install
+  312  apt install rail
+  313  \curl -L https://get.rvm.io | bash -s stable --ruby
+  314  source /Users/WYY/.rvm/scripts/rvm
+  315  rvm install ruby-1.9.3-p362
+  316  ruby -v
+  317  ruby -v
+  318  rvm get head && rvm reload
+  319  rvm install 1.9.3
+  320  ruby -v
+  321  rvm use 1.9.3@rails3tutorial2ndEd --create --default
+  322  rvm install 1.9.3
+  323  rvm use 1.9.3@rails3tutorial2ndEd --create --default
+  324  ruby -v
+  325  ssh -X iruwang@myth.stanford.edu
+  326  vim ~/.bash_profile 
+  327  rvm
+  328  vim ~/.bash_profile 
+  329  exit
+  330  sts
+  331  vim ~/.bash_profile 
+  332  exit
+  333  stssh
+  334  vim ~/.bash_profile 
+  335  stssh
+  336  vim ~/.bash_profile 
+  337  ls
+  338  cd /local/
+  339  pwd
+  340  cd ls
+  341  ls
+  342  cd rails_projects/
+  343  ls
+  344  cd Orrzs/
+  345  ls
+  346  cd /Users/WYY/.rvm/rubies/ruby-1.9.3-p448/bin/ruby
+  347  ls
+  348  cd .rvm/
+  349  ls
+  350  cd rubies/
+  351  ls
+  352  cd ruby-1.9.3-p448/
+  353  ls
+  354  cd bin 
+  355  ls
+  356  ruby
+  357  cd ..
+  358  ls
+  359  cd config
+  360  ls
+  361  cd oncfig
+  362  ls
+  363  cd config
+  364  less config 
+  365  cd /usr/local/etc/ImageMagick/
+  366  ls
+  367  sudo rm type.xml 
+  368  stssh 
+  369  stssh 
+  370  pwd
+  371  cd newapp
+  372  ls
+  373  cd rails_projects/
+  374  ls
+  375  cd Orrzs/
+  376  ls
+  377  cd ..
+  378  rails -v
+  379  ls
+  380  cd Orrzs/
+  381  rails server
+  382  rails server
+  383  ls
+  384  rails server
+  385  cd ..
+  386  ls
+  387  cd ..
+  388  cd myapp/
+  389  ls
+  390  rails server
+  391  git config --global user.name
+  392  git config --global email
+  393  git config --global user.email
+  394  git config --global user.name "irukimo"
+  395  git config --global user.name
+  396  git config --global user.email wangirukimo@gmail.com
+  397  git config --global user.email
+  398  ls -a
+  399  cd .git
+  400  git log
+  401  git init
+  402  vim .gitignore 
+  403  ls -a
+  404  ls
+  405  ls -a
+  406  vim .gitignore 
+  407  git .
+  408  git add .
+  409  git status
+  410  git commit -am "Initial Commit"
+  411  git status
+  412   git remote add origin git@github.com:irukimo/pinterest.git
+  413  git push -u origin master
+  414  git remote add origin git@github.com:irukimo/pinterest.git
+  415  git remote add origin git@github.com:irukimo/pinterest.git
+  416  git push -u origin master
+  417  git push -u origin master
+  418  git remote add origin git@github.com:irukimo/pinterest.git
+  419  git push -u origin master
+  420  git log
+  421  git push
+  422  git remote add origin git@github.com:irukimo/pinterest.git
+  423  git push -u origin master
+  424  ssh -vT git@github.com
+  425  ssh-add -l
+  426  exit
+  427  brew imagemagick
+  428  brew install imagemagick
+  429  sudo install imagemagick
+  430  sudo brew install imagemagick
+  431  brew install imagemagick
+  432  brew reinstall imagemagick
+  433  brew link --overwrite imagemagick
+  434  brew link imagemagick
+  435  brew install imagemagick
+  436  brew doctor
+  437  brew reinstall imagemagick
+  438  brew install imagemagick
+  439  ls
+  440  ls
+  441  cd /usr/bin
+  442  ls
+  443  mdfind imagemagick
+  444  ls
+  445  cd ..
+  446  ls
+  447  sudo port install imagemagick
+  448  brew instal imagemagick
+  449  brew config
+  450  brew config
+  451  brew instal imagemagick
+  452  echo "Hi"
+  453  ls
+  454  pwd
+  455  cd WYY
+  456  ls
+  457  exit
+  458  exit
+  459  ssh-add -l
+  460  ls
+  461  cd myapp/
+  462  ls
+  463  git remote add origin git@github.com:irukimo/pinterest.git
+  464  git origin
+  465  git push -u origin master
+  466  git remote add origin https://github.com/irukimo/pinterest.git
+  467  git remote set-url origin https://github.com/irukimo/pinterest.git
+  468  git push -u origin master
+  469  git remote add origin https://github.com/irukimo/pinterest.git
+  470  git push -u origin master
+  471  git remote add origin git@github.com:irukimo/pinterest.git
+  472  git remote set-url origin git@github.com/irukimo/pinterest.git
+  473  git push -u origin master
+  474  git remote set-url origin git@github.com:irukimo/pinterest.git
+  475  git push -u origin master
+  476  pbcopy < ~/.ssh/id_rsa.pub
+  477  pbcopy < ~/.ssh/id_rsa.pub
+  478  git remote set-url origin git@github.com:irukimo/pinterest.git
+  479  git push -u origin master
+  480  git push -u origin master
+  481  history
+  482  history > history1.txt
+  483  ls
+  484  rails rs
+  485  rails s
+  486  rails s
+  487  ls
+  488  cd app/
+  489  ls
+  490  cd models/
+  491  ls
+  492  cd concerns/
+  493  ls
+  494  cd ..
+  495  cd ~/,ssh
+  496  cd ~/.ssh
+  497  ls
+  498  ssh-keygen -t rsa -C "wangirukimo@gmail.com"
+  499  pwd
+  500  ls
+  501  cd myapp/
+  502  ls
+  503  mv README.rdoc README.md
+  504  git add .
+  505  git commit -am "Edit the README"
+  506  git status
+  507  git push 
+  508  heroku keys:add
+  509  heroku keys:add
+  510  heroku create
+  511  git push heroku master
+  512  subl .
+  513  subl .
+  514  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+  515  subl .
+  516  sudo ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/bin/subl
+  517  subl .
+  518  subl .
+  519  bundle install --without production
+  520  git status
+  521  git add .
+  522  git commit -am "Gem file updated"
+  523  git add .
+  524  git status
+  525  git push
+  526  git -help
+  527  git --help
+  528  git push heroku master
+  529  heroku open
+  530  rails s
+  531  heroku logs
+  532  git push heroku master
+  533  heroku ps
+  534  heroku ps:scale web+2
+  535  heroku ps:scale web+2
+  536  heroku logs
+  537  heroku db migrate
+  538  heroku run rake db:migrate
+  539  heroku run rake db:migrate --trace
+  540  heroku restart
+  541  heroku logs
+  542  git push heroku master
+  543  heroku open
+  544  heroku rake db:migrate
+  545  heroku rake db:migrate --trace
+  546  heroku run rake db:migrate --trace
+  547  heroku logs
+  548  git push heroku master
+  549  heroku restart
+  550* herokuheroku pg:reset DATABASE
+  551  heroku run bash --app appname
+  552  heroku pg:reset DATABASE
+  553  heroku run rake db:migrate
+  554  heroku logs
+  555  heroku ps
+  556  heroku ps:scale web=1
+  557  heroku ps
+  558  heroku restart
+  559  heroku log
+  560  heroku logs
+  561  heroku run rake db:migrate
+  562  pg
+  563  gem pg
+  564  gem install pg
+  565  heroku run rake db:migrate
+  566  heroku restart
+  567* heroku 
+  568  gem install bundler
+  569  bundle install
+  570  bundle install --without development
+  571  bundle exec rake db:create
+  572  rake db:migrate
+  573  git push heroku master
+  574  heroku logs
+  575  bundle install --without production
+  576  bundle install --without production
+  577  git add .
+  578  git status
+  579  git commit -am "ADD PG version"
+  580  git push
+  581  git push heroku master
+  582  heroku open
+  583  heroku logs
+  584  heroku run:detached rake db:migrate
+  585  heroku logs -p run.4403
+  586  git status
+  587  git push heroku master
+  588  heroku open
+  589  git status
+  590  git add .
+  591  git commit -am "ADD environment"
+  592  git push heroku master
+  593  git commit -am "ADD environment"
+  594  git add .
+  595  git commit -am "ADD environment"
+  596  git status
+  597  git status
+  598  git add .
+  599  git commit -am "ADD environment"
+  600  git commit -am "ADD environment"
+  601  git status
+  602  git add .
+  603  git add ./
+  604  git status
+  605  git commit -am "yay"
+  606  git status
+  607  git add ./
+  608  git commit -am "fff"
+  609  git status
+  610  git add ./
+  611  git add .
+  612  git commit -am "fff"
+  613  git push heroku master
+  614  git rm public/index.html
+  615  git push 
+  616  git push heroku master
+  617  heroku restart
+  618  git push heroku master
+  619  rails s
+  620  heroku rake db:migrate
+  621  heroku restart
+  622  git push heroku master
+  623  heroku logs
+  624  rails s
+  625  rails s
+  626  rails s
+  627  rails s
+  628  heroku logs
+  629  git status
+  630  git add .
+  631  git commit -am "fff"
+  632  git push
+  633  git push heroku master
+  634  heroku restart
+  635  rails s
+  636  git status
+  637  git add .
+  638  git commit -am "jjj"
+  639  git push
+  640  git push heroku master
+  641  heroku logs
+  642  git status
+  643  git add .
+  644  git commit -am "jjj"
+  645  git push
+  646  git push heroku master
+  647  git status
+  648  git add .
+  649  git commit -am "jjjff"
+  650  git push
+  651  git push heroku master
+  652  heroku restart
+  653  heroku logs
+  654  rake assets:precompile
+  655  git status
+  656  git push heroku master
+  657  heroku restart
+  658  heroku logs
+  659  rails -v
+  660  bundle install
+  661  bundle install --without production
+  662  bundle install --without production
+  663  bundle update
+  664  rails s
+  665  rails s -e production
+  666  bundle update
+  667  bundle install
+  668  bundle install .
+  669  bundle install pg
+  670  gem install pg
+  671  rails s -e production
+  672  bundle install 
+  673  rails s -e production
+  674  history > whatsthis.txt
