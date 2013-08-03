@@ -27,9 +27,9 @@ Myapp::Application.configure do
   # config.assets.css_compressor = :sass
 
   # Do not fallback to assets pipeline if a precompiled asset is missed.
-  config.assets.compile = true
+  config.assets.compile = false
 
-  config.assets.initialize_on_precompile=false
+  
   # Generate digests for assets URLs.
   config.assets.digest = true
 
@@ -81,4 +81,15 @@ Myapp::Application.configure do
 
   # In production :host should be set...
   config.action_mailer.default_url_options = { :host => 'localhost:3000' }
+
+
+  #configuring amazon s3 for paperclip full uploads
+  config.paperclip_defaults={
+    :storage => :s3,
+    :s3_credentials => {
+      :bucket => ENV['AWS_BUCKET'],
+      :access_key_id => ENV['AWS_ACCESS_KEY_ID'],
+      :secret_access_key => ENV['AWS_SECRET_ACCESS_KEY']
+    }
+  }
 end
