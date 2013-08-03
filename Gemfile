@@ -9,6 +9,8 @@ gem "paperclip", "~>3.0"
 gem 'jquery-rails'
 gem 'aws-sdk'
 gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
 
 
 group :production do
