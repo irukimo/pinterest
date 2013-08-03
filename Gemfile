@@ -8,6 +8,7 @@ gem "paperclip", "~>3.0"
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 gem 'aws-sdk'
+gem 'faker'
 
 
 group :production do

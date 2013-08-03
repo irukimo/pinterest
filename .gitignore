@@ -17,3 +17,7 @@
 
 ＃ Ignore Paperclip uploaded files
 /public/system
+
+
+# Igore sampleimages
+/sampleimages
